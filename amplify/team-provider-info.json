@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-beethos-dev-170714-authRole",
+            "UnauthRoleArn": "arn:aws:iam::198525679483:role/amplify-beethos-dev-170714-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::198525679483:role/amplify-beethos-dev-170714-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-beethos-dev-170714-deployment",
+            "UnauthRoleName": "amplify-beethos-dev-170714-unauthRole",
+            "StackName": "amplify-beethos-dev-170714",
+            "StackId": "arn:aws:cloudformation:eu-west-1:198525679483:stack/amplify-beethos-dev-170714/f2efc5b0-ad8f-11ea-8219-0af8eed4b1ec",
+            "AmplifyAppId": "d1nci5k77qesos"
+        }
+    }
+}
